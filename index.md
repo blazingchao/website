@@ -91,13 +91,13 @@ sections:
     title: Members
     background_style: bg-info text-white
     members:
-      - title: Christina M. Aponte
-        text: Singer and Songwriter
-        image: assets/img/members/person1.jpg
+      - title: Jeremiah Levitt
+        text: Co-founder
+        image: assets/img/members/jeremy.PNG
         url: '#'
-      - title: Gary D. Stevens
-        text: Bass guitar.
-        image: assets/img/members/person2.jpg
+      - title: John Le
+        text: Co-founder and Bass guitar.
+        image: assets/img/members/John.PNG
         url: '#'
       - title: Devon J. Fletcher
         text: Lead guitar.
@@ -144,18 +144,18 @@ sections:
       Ready to start your next project with us? Give us a call or send us an email
       and we will get back to you as soon as possible!
     actions:
-    - title: +1 (202) 555-014
-      icon: fa-phone
+    # - title: +1 (202) 555-014
+    #   icon: fa-phone
     - title: E-Mail
       icon: fa-envelope
-      url: mailto:contact@yourwebsite.com
-    - title: Twitter
-      icon: fa-twitter
-      icon_type: fab
-      url: '#'
-    - title: Facebook
-      icon: fa-facebook
-      icon_type: fab
-      url: '#'
+      url: mailto:mobilemoves@gmail.com
+    # - title: Twitter
+    #   icon: fa-twitter
+    #   icon_type: fab
+    #   url: '#'
+    # - title: Facebook
+    #   icon: fa-facebook
+    #   icon_type: fab
+    #   url: '#'
 
 ---
