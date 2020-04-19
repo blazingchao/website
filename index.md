@@ -124,8 +124,8 @@ sections:
     actions:
       - image: assets/img/portfolio/thumbnails/1.jpg
         title: >+
-          2017-2018
-          **Humble Beginnings**
+          2019-2020
+          **Beginnings**
         text: >-
           We begun with small group of people willing to work hard and make our
           teaching skills worth , in front of all others!
