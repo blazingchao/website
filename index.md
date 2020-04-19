@@ -14,7 +14,7 @@ sections:
     section_id: about
     background_style: bg-primary
     title: Safety is our priority.
-    text: insert text blah blah blah
+    text: Hospitals everywhere, including high prestigious hospitals, have the current problem of not being able to effectively determine if the patient is able to successfully stand for a chest x-ray, which ultimately causes them to fall and injure them. This problem currently costs them about 4 million dollars, on average, yearly. To effectively protect the patient's safety and allow the radiologists and doctors to do their job, is to be able to make a wheelchair that will be able to allow the patient to take the x-ray without having them to get out of the wheelchair. This can save millions of dollars and save tragedy and pain to the patient and allow them to focus on recover.
     # actions:
     #   - title: Get Started!
     #     url: '#'
@@ -103,18 +103,18 @@ sections:
         text: Lead guitar.
         image: assets/img/members/person3.jpg
         url: '#'
-      - title: Todd E. Anderson
-        text: Drums, percussion.
-        image: assets/img/members/person5.jpg
-        url: '#'
-      - title: Daniel T. Riley
-        text: Musician, songwriter, producer.
-        image: assets/img/members/person6.jpg
-        url: '#'
-      - title: Ella P. Walter
-        text: PR.
-        image: assets/img/members/person7.jpg
-        url: '#'
+      # - title: Todd E. Anderson
+      #   text: Drums, percussion.
+      #   image: assets/img/members/person5.jpg
+      #   url: '#'
+      # - title: Daniel T. Riley
+      #   text: Musician, songwriter, producer.
+      #   image: assets/img/members/person6.jpg
+      #   url: '#'
+      # - title: Ella P. Walter
+      #   text: PR.
+      #   image: assets/img/members/person7.jpg
+      #   url: '#'
 
   - type: timeline.html
     section_id: timeline
