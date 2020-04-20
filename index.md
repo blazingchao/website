@@ -91,13 +91,13 @@ sections:
     title: Members
     background_style: bg-info text-white
     members:
-      - title: Jeremiah Levitt
-        text: CEO
-        image: assets/img/members/jeremy.PNG
-        url: '#'
       - title: John Le
         text: President
         image: assets/img/members/John.PNG
+        url: '#'
+      - title: Jeremiah Levitt
+        text: CEO
+        image: assets/img/members/jeremy.PNG
         url: '#'
       - title: Lauren Berrett
         text: Finance Chair
