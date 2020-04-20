@@ -92,19 +92,19 @@ sections:
     background_style: bg-info text-white
     members:
       - title: Jeremiah Levitt
-        text: Co-founder
+        text: CEO
         image: assets/img/members/jeremy.PNG
         url: '#'
       - title: John Le
-        text: Co-founder and Bass guitar.
+        text: President
         image: assets/img/members/John.PNG
         url: '#'
-      - title: Devon J. Fletcher
-        text: Lead guitar.
-        image: assets/img/members/person3.jpg
+      - title: Lauren Berrett
+        text: Finance Chair
+        image: assets/img/members/lauren.PNG
         url: '#'
       # - title: Todd E. Anderson
-      #   text: Drums, percussion.
+      #   text: Drums, percussion. 
       #   image: assets/img/members/person5.jpg
       #   url: '#'
       # - title: Daniel T. Riley
