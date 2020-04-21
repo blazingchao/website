@@ -2,6 +2,7 @@
 layout: home
 header:
   title: MobileMoves
+  image: assets/img/mobilemoveslogo.PNG
   text: >
     We are a team of engineers who strive to serve patients in wheelchairs around the globe by preventing falls and maintaining their safety.
   # action: # action button is optional
@@ -148,7 +149,7 @@ sections:
     #   icon: fa-phone
     - title: E-Mail
       icon: fa-envelope
-      url: mailto:mobilemoves@gmail.com
+      url: mailto:mobilemoves20@gmail.com
     # - title: Twitter
     #   icon: fa-twitter
     #   icon_type: fab
