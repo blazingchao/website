@@ -65,7 +65,7 @@ sections:
       - title: Project 3
         text: This is a very short project description.
         icon: 3.jpg
-        url: '#'
+        url: youtube "https://www.youtube.com/watch?v=2Uufm2TGBsY"
       # - title: Project 4
       #   text: This is a very short project description.
       #   icon: 4.jpg
