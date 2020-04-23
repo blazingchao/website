@@ -63,7 +63,7 @@ sections:
         icon: 2.jpg
         url: 'https://docs.google.com/presentation/d/1HR5vfYyFQTtp1rnlKbVVD15RQ0n_RffA/edit#slide=id.p1'
       - title: Project 3
-        text: This is a very short project description.
+        text: 
         icon: 3.jpg
         url: youtube "https://www.youtube.com/watch?v=2Uufm2TGBsY"
       # - title: Project 4
@@ -117,26 +117,26 @@ sections:
       #   image: assets/img/members/person7.jpg
       #   url: '#'
 
-  - type: timeline.html
-    section_id: timeline
-    title: Major Achievements!
-    background_style: bg-dark text-primary
-    last_image: assets/img/timeline-end.png
-    actions:
-      - image: assets/img/portfolio/thumbnails/1.jpg
-        title: >+
-          2019-2020
-          **Beginnings**
-        text: >-
-          We begun with small group of people willing to work hard and make our
-          teaching skills worth , in front of all others!
-      - image: assets/img/portfolio/thumbnails/2.jpg
-        title: >+
-          November 2019
-          An Coaching started
-        text: >-
-          We started to gather like minded people and started our stategies
-          and future plans to them. As a result , interested people joined us!
+  # - type: timeline.html
+  #   section_id: timeline
+  #   title: Major Achievements!
+  #   background_style: bg-dark text-primary
+  #   last_image: assets/img/timeline-end.png
+  #   actions:
+  #     - image: assets/img/portfolio/thumbnails/1.jpg
+  #       title: >+
+  #         2019-2020
+  #         **Beginnings**
+  #       text: >-
+  #         We begun with small group of people willing to work hard and make our
+  #         teaching skills worth , in front of all others!
+  #     - image: assets/img/portfolio/thumbnails/2.jpg
+  #       title: >+
+  #         November 2019
+  #         An Coaching started
+  #       text: >-
+  #         We started to gather like minded people and started our stategies
+  #         and future plans to them. As a result , interested people joined us!
 
   - type: contact.html
     section_id: contacts
